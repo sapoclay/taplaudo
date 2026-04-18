@@ -2,7 +2,7 @@
 
 <img width="1408" height="768" alt="tAplaudo" src="https://github.com/user-attachments/assets/8c41fbea-541e-42fc-971c-fbcbc0640dd1" />
 
-Aplaude dos veces y tu ordenador te da la bienvenida: una voz pronuncia tu mensaje, se abren las URLs que quieras en el navegador y se lanzan las aplicaciones que hayas configurado.
+Aplaude dos veces y tu ordenador te dará la bienvenida. Una voz personlizable leerá tu mensaje también personalizable, y se abrirán las URLs que quieras en el navegador y se lanzan las aplicaciones que hayas configurado.
 
 Funciona en **Linux** y **Windows**.
 
