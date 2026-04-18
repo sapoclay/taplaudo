@@ -4,8 +4,8 @@ Aplaude dos veces y tu ordenador te da la bienvenida: una voz pronuncia tu mensa
 
 Funciona en **Linux** y **Windows**.
 
-[!NOTE]
-Esta idea la tomé prestada de otro código que encontré en https://github.com/RafaTatay/jarvis ... y que a su vez creo que este hombre la sacó de otro sitio. La idea creo que me puede venir bien para desarrollar algo para Kodi ... si tengo tiempo. Por el momento la adapté a mi equipo principal.
+> [!NOTE]
+> Esta idea la tomé prestada de otro código que encontré en https://github.com/RafaTatay/jarvis ... y que a su vez creo que este hombre la sacó de otro sitio. La idea creo que me puede venir bien para desarrollar algo para Kodi ... si tengo tiempo. Por el momento la adapté a mi equipo principal.
 
 ---
 
